@@ -1,0 +1,28 @@
+* {
+  padding: 0px;
+  margin: 5px;
+}
+div {
+  text-align: center;
+}
+textarea {
+  height: 150px;
+  width: 150px;
+  box-sizing: border-box;
+  border: solid 1px;
+}
+input {
+  height: 30px;
+  width: 150px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+  color: #000;
+  border: solid 1px;
+}
+input::placeholder {
+    
+    font-weight: bold;
+    color: #000;
+ 
+}
